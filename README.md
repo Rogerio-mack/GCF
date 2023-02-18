@@ -66,6 +66,8 @@ Depois de acessar os materiais e fazer a sua inscrição, junte-se a nós para a
 <br>
 <br>
 
-[Chamada para professores](https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/GCCF-Academy-5P-1_TEACHERS%20(1).pdf)
+---
 
-[Banner](https://github.com/Rogerio-mack/GCF/blob/main/banner.md)
+[Aqui a chamada exclusiva para professores](https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/GCCF-Academy-5P-1_TEACHERS%20(1).pdf)
+
+[Banner de divulgação](https://github.com/Rogerio-mack/GCF/blob/main/banner.md)
