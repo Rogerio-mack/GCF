@@ -34,7 +34,7 @@ Acesse os links abaixo (no texto ou o link direto) para ter mais informações s
 •	Clique [aqui](https://docs.google.com/forms/d/1XcmzcLHf8-utm8kWJWizAyVtvWCyY0GFqI_ERxjdr_0/viewform?edit_requested=true) para sua **inscrição até 03 de Março**, e fique atento ao seu e-mail de cadastro para receber a programação. O Kick Off para os alunos acontece online em 08 de março, 18:00h – 19:20h, e você receberá o link no seu e-mail de cadastro.
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_inscricao.png" width="20%" align="left"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_incricao.png" width="20%" align="left"/>
 </p>
 
 <br>
