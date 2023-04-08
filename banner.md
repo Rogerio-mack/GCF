@@ -12,16 +12,14 @@
 <br>
 <br>
 
-<p>
-<h2>
-Estamos trazendo novamente para os nossos alunos o <bf>Google Cloud Learning!, agora na Edição 2023!</bf> O Google Cloud Learning é um curso fundamental para todos que querem aprender e praticar os principais conceitos dos serviços em nuvem com uma das plataformas mais usadas no mercado. 
-</h2> 
-</p>
+#  O **Google Cloud Academy** Edição de Abril! Kick-Off em 13.04. 
 
 <p>
 <h2>
   
-*	Sessão de mentoria especial com um Googler. 
+*	Sessão de mentoria especial com um Googler e
+  
+* Monitores para apoio aos alunos 
   
 * Acesso a Feira de Empregos, e conectar-se com +20 parceiros do Google Cloud com vagas abertas! 
   
@@ -30,58 +28,39 @@ Estamos trazendo novamente para os nossos alunos o <bf>Google Cloud Learning!, a
 </p>
 
 <p>
-<h2>
-Você não vai querer ficar de fora! Você encontra mais detalhes na sua caixa de e-mail, nas suas mensagens no Moodle, ou aqui:
-</h2> 
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/GCF_anual_2023.png" width="80%" align="center"/>
 </p>
 
+<br>
 
-
-## Chamada
+## Inscrições Google - Edição 13.Abril - 2023
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_chamada.png" width="20%" align="left"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/qrcode_inscricao.png" width="16%" align="center"/>
 </p>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-## Inscrições (até 03 de março)
+## Cadastro Mackenzie depois da inscrição na Google
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_incricao.png" width="20%" align="left"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/qrcode_inscricao_mack.png" width="16%" align="center"/>
 </p>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-## Junte-se a nós no Whatsapp (somente para inscritos)
+## Chamada e Informações da Academia
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_whatsapp.png" width="20%" align="left"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/qrcode_chamada.png" width="16%" align="center"/>
 </p>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
+## Junte-se a nós no Whatsapp
+
+<p>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_whatsapp.png" width="16%" align="center"/>
+</p>
+
+<br>
