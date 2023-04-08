@@ -49,7 +49,7 @@ Inscrições feitas até **10 de Abril** vão permitir você receber o link para
   <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/qrcode_inscricao_mack.png" width="16%" align="center"/>
 </p>
 
-* Além da inscrição acima clique [aqui](https://docs.google.com/spreadsheets/d/1qUOPz7n37g86Tke3mG8h2WJjjh8eOGn4APvUj7isRX0/edit?usp=sharing) para fazer o seu registro de inscrito pelo Mackenzie. Seu certificado sairá com o nome do Mackenzie e esta é uma etapa obrigatória para a atribuição de horas complementares. Note que há campos para serem preenchidos agora e depois de concluído o curso (para as horas complementares).
+• Além da inscrição acima clique [aqui](https://docs.google.com/spreadsheets/d/1qUOPz7n37g86Tke3mG8h2WJjjh8eOGn4APvUj7isRX0/edit?usp=sharing) para fazer o seu registro de inscrito pelo Mackenzie. Seu certificado sairá com o nome do Mackenzie e esta é uma etapa obrigatória para a atribuição de horas complementares. Note que há campos para serem preenchidos agora e depois de concluído o curso (para as horas complementares).
 
 ## Chamada e Informações da Academia
 
@@ -65,7 +65,7 @@ Inscrições feitas até **10 de Abril** vão permitir você receber o link para
   <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_whatsapp.png" width="16%" align="center"/>
 </p>
 
-Depois de acessar os materiais e fazer a sua inscrição, junte-se a nós para acompanhar notícias do evento ou tirar suas dúvidas acessando nosso grupo no [Whatsapp]( https://chat.whatsapp.com/BsIBXKBB3HPEQXUDdOTjiA). 
+• Depois de acessar os materiais e fazer a sua inscrição, junte-se a nós para acompanhar notícias do evento ou tirar suas dúvidas acessando nosso grupo no [Whatsapp]( https://chat.whatsapp.com/BsIBXKBB3HPEQXUDdOTjiA). 
 
 
 
