@@ -6,15 +6,20 @@
   <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/Mackenzie70.jpg" width="40%" align="right"/>
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 Olá pessoal, 
 O **Google Cloud Computing Foundations Academy** está na 3a edição da Academia no Mackenzie. Agora a Academia conta com uma **programação anual** para que você possa 
 se organizar e escolher o melhor período de participação.
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/GCF_anual_2023.png" width="80%" align="right"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/GCF_anual_2023.png" width="80%" align="center"/>
 </p>
-
-
 
 Essa Academia é um treinamento fundamental para quem quer aprender e praticar os conceitos dos serviços em nuvem 
 com uma das plataformas mais empregadas no mercado. O treinamento completo é composto por 4 cursos introdutórios e 4 desafios, correspondentes a cada curso.
@@ -32,7 +37,7 @@ para edição corrente e, na medida que forem abertas novas datas um novo formul
 •	Clique [aqui](https://github.com/Rogerio-mack/GCF/blob/main/GCF_files_Abril_2023/GCCF-Academy-ABRILP-1_STUDENTS.pdf) para acessar a Chamada para o Google Cloud Foundations Academy **Edição Abril -2023**, e veja detalhes sobre a academia
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_chamada.png" width="20%" align="left"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/qrcode_chamada.png" width="20%" align="left"/>
 </p>
 
 <br>
@@ -45,12 +50,12 @@ para edição corrente e, na medida que forem abertas novas datas um novo formul
 <br>
 <br>
 
-## Inscrições
+## Inscrições Google
 •	Clique [aqui](https://docs.google.com/forms/d/1e7UNJfAXwwll9v9DoXrruGEM2pYSziluw6fddhl1VuY/viewform?edit_requested=true) para sua **inscrição**.
-Inscrições feitas até *10 de Abril* vão permitir você receber o link para a sessão de Kick-Off (uma sessão online no dia 13.04, 18:00h, em canal do YouTube ou Google Meets, e que não requer inscrição para assistir). Se você se inscrever depois dessa data e até o dia **13 de Abril** (até mesmo depois do Kick-Off) receba o link de acesso ao Kick-Off entrando no nosso grupo de Whatsapp abaixo. Fique atento às chamadas no seu email de cadastro.
+Inscrições feitas até **10 de Abril** vão permitir você receber o link para a sessão de Kick-Off (uma sessão online no dia 13.04, 18:00h, em canal do YouTube ou Google Meets, e que não requer inscrição para assistir). Se você se inscrever depois dessa data e até o dia **13 de Abril** (até mesmo depois do Kick-Off) receba o link de acesso ao Kick-Off entrando no nosso grupo de Whatsapp abaixo. Fique atento às chamadas no seu email de cadastro.
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_incricao.png" width="20%" align="left"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/qrcode_incricao.png" width="20%" align="left"/>
 </p>
 
 <br>
@@ -62,6 +67,13 @@ Inscrições feitas até *10 de Abril* vão permitir você receber o link para a
 <br>
 <br>
 <br>
+
+## Cadastro Mackenzie depois da inscrição na Google
+* Além da inscrição acima clique [aqui](https://docs.google.com/spreadsheets/d/1qUOPz7n37g86Tke3mG8h2WJjjh8eOGn4APvUj7isRX0/edit?usp=sharing) para fazer o seu registro de inscrito pelo Mackenzie. Seu certificado sairá com o nome do Mackenzie e esta é uma etapa obrigatória para a atribuição de horas complementares. Note que há campos para serem preenchidos agora e depois de concluído o curso (para as horas complementares).
+
+<p>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/qrcode_incricao_mack.png" width="20%" align="left"/>
+</p>
 
 ## Junte-se a nós no Whatsapp
 Depois de acessar os materiais e fazer a sua inscrição, junte-se a nós para acompanhar notícias do evento ou tirar suas dúvidas acessando nosso grupo no [Whatsapp]( https://chat.whatsapp.com/BsIBXKBB3HPEQXUDdOTjiA). 
@@ -84,4 +96,4 @@ Depois de acessar os materiais e fazer a sua inscrição, junte-se a nós para a
 
 
 [Banner de divulgação](https://github.com/Rogerio-mack/GCF/blob/main/banner.md)
-![imagem](https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/GCCF_SM_Students_YT_BR.gif)
+
