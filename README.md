@@ -17,7 +17,7 @@ Olá pessoal,
 O **Google Cloud Computing Foundations Academy** está na **4a edição da Academia no Mackenzie**, agora com a Edição de **MAIO, 2023**. Confira abaixo a **programação anual** para que você possa se organizar e escolher o melhor período de participação.
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/GCF_anual_2023.png" width="80%" align="center"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Abril_2023/GCF_anual_2023.png" width="80%" align="center"/>
 </p>
 
 Essa Academia é um treinamento fundamental para quem quer aprender e praticar os conceitos dos serviços em nuvem 
