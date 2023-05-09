@@ -56,7 +56,7 @@ Inscrições feitas até **10 de Abril** vão permitir você receber o link para
   <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Maio_2023/qrcode_chamada.png" width="16%" align="center"/>
 </p>
 
-•	Clique [aqui](https://github.com/Rogerio-mack/GCF/blob/main/GCF_files_Maio_2023/GCCF-Academy-ABRILP-1_STUDENTS.pdf) para acessar a Chamada para o Google Cloud Foundations Academy **Edição Abril -2023**, e veja detalhes sobre a academia
+•	Clique [aqui](https://github.com/Rogerio-mack/GCF/blob/main/GCF_files_Maio_2023/GCCF-Academy-MAIO23_STUDENTS.pdf) para acessar a Chamada para o Google Cloud Foundations Academy **Edição Abril -2023**, e veja detalhes sobre a academia
 
 ## Junte-se a nós no Whatsapp
 
