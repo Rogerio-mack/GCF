@@ -33,7 +33,7 @@
 
 <br>
 
-## Inscrições Google - Edição 18.MAIO - 2023
+### Inscrições Google - Edição 18.Maio - 2023
 
 <p>
   <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Maio_2023/qrcode_inscricao.png" width="16%" align="center"/>
@@ -49,18 +49,15 @@
 
 <br>
 
-## Chamada e Informações da Academia
-
-<p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Maio_2023/qrcode_chamada.png" width="16%" align="center"/>
-</p>
-
-<br>
-
 ## Junte-se a nós no Whatsapp
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_whatsapp.png" width="16%" align="center"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Maio_2023/qrcode_whatsapp.png" width="16%" align="center"/>
 </p>
 
-<br>
+
+
+
+ 
+
+
