@@ -61,7 +61,7 @@ Inscrições feitas até **10 de Abril** vão permitir você receber o link para
 ## Junte-se a nós no Whatsapp
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_whatsapp.png" width="16%" align="center"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Maio_2023/qrcode_whatsapp.png" width="16%" align="center"/>
 </p>
 
 • Depois de acessar os materiais e fazer a sua inscrição, junte-se a nós para acompanhar notícias do evento ou tirar suas dúvidas acessando nosso grupo no [Whatsapp]( https://chat.whatsapp.com/BsIBXKBB3HPEQXUDdOTjiA). 
