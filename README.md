@@ -33,7 +33,7 @@ abertas. Os alunos de graduação também terão direito a **40h complementares*
 Acesse os links abaixo (no texto ou o link direto) para ter mais informações, acessar a agenda e fazer sua inscrição. O formulário de inscrição é somente 
 para edição corrente e, na medida que forem abertas novas datas um novo formulário será aberto aqui.
 
-## Inscrições Google - Edição 18.Maio - 2023
+## Inscrições Google - Edição 24.Maio - 2023
 
 <p>
   <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Maio_2023/qrcode_inscricao.png" width="16%" align="center"/>
