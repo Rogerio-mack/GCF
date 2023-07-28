@@ -16,9 +16,14 @@
 <p>
   <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Agosto_2023/qrcode_github.png" width="16%" align="center"/>
 </p>
+Qrcode desta página!
+
+<br>
+<br>
+<br>
 
 Olá pessoal, 
-O **Google Cloud Computing Foundations Academy** está na **5a edição da Academia no Mackenzie**, agora com a Edição de **AGOSTO, 2023**. Confira abaixo a **programação anual** para que você possa se organizar e escolher o melhor período de participação.
+O **Google Cloud Computing Foundations Academy** está na **5a edição da Academia no Mackenzie**, agora com a Edição de **AGOSTO, 2023**. Confira abaixo a **programação anual** para que você possa se organizar e escolher o melhor período de participação. Assista aqui o [vídeo da chamada](https://github.com/Rogerio-mack/GCF/blob/main/GCF_files_Agosto_2023/GCCF_SM_Students_IN_BR.mp4). 
 
 <p>
   <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Agosto_2023/GCF_anual_2023.png" width="80%" align="center"/>
@@ -26,13 +31,13 @@ O **Google Cloud Computing Foundations Academy** está na **5a edição da Acade
 
 Essa Academia é um treinamento fundamental para quem quer aprender e praticar os conceitos dos serviços em nuvem 
 com uma das plataformas mais empregadas no mercado. O treinamento completo é composto por 4 cursos introdutórios e 4 desafios, correspondentes a cada curso.
-Nesta edição ainda pretendemos contar com **monitores** para apoio aos alunos inscritos!
+
 
 Os estudantes que concluírem os 4 cursos no prazo vão receber um convite para participar em
 uma sessão de mentoria especial com um Googler. E os que adquirirem os 4 selos de
 habilidades (skill badges correspondentes aos desafios) estarão aptos a participar na **Feira de Empregos** que acontecerá no
-fim de junho/23, e conectar-se com +20 parceiros do Google Cloud que estão com vagas
-abertas. Os alunos de graduação também terão direito a **40h complementares**!
+fim de NOVEMBRO/23, e conectar-se com +20 parceiros do Google Cloud que estão com vagas
+abertas. Os alunos de graduação também terão direito a **40h complementares**! 
 
 Acesse os links abaixo (no texto ou o link direto) para ter mais informações, acessar a agenda e fazer sua inscrição. O formulário de inscrição é somente 
 para edição corrente e, na medida que forem abertas novas datas um novo formulário será aberto aqui.
