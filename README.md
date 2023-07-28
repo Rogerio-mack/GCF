@@ -23,7 +23,7 @@ Qrcode desta página!
 <br>
 
 Olá pessoal, 
-O **Google Cloud Computing Foundations Academy** está na **5a edição da Academia no Mackenzie**, agora com a Edição de **AGOSTO, 2023**. Confira abaixo a **programação anual** para que você possa se organizar e escolher o melhor período de participação. Assista aqui o [vídeo da chamada](https://github.com/Rogerio-mack/GCF/blob/main/GCF_files_Agosto_2023/GCCF_SM_Students_IN_BR.mp4). 
+O **Google Cloud Computing Foundations Academy** está na **5a edição da Academia no Mackenzie**, agora com a Edição de **AGOSTO, 2023**. Confira abaixo a **programação anual** para que você possa se organizar e escolher o melhor período de participação. 
 
 <p>
   <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Agosto_2023/GCF_anual_2023.png" width="80%" align="center"/>
