@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/Mackenzie70.jpg" width="40%" align="right"/>
+  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/Mackenzie.jpg" width="40%" align="right"/>
 </p>
 
 <br>
