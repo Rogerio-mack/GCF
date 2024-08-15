@@ -59,17 +59,17 @@ O ideal é que você complete o curso em 8 semanas. Para participar da feira de 
 Mas se desejar receber apenas o certificado e/ou horas complementares, você terá até 5 de dezembro de 2024 para completar os cursos. A partir 
 dessa data (ou um pouco mais) encerram-se os seu créditos gratuítos na plataforma.
 
-### Quais são os 8 cursos que constam dessa atividade?
+#### Quais são os 8 cursos que constam dessa atividade?
 Aqui os cursos e desafios:
 
-1. Google Cloud Computing Foundations: Cloud Computing Fundamentals
-2. Google Cloud Computing Foundations: Infrastructure in Google Cloud
-3. Google Cloud Computing Foundations: Networking & Security in Google Cloud
-4. Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud
-5. Implement Load Balancing on Compute Engine
-6. Set Up an App Dev Environment on Google Cloud
-7. Build a Secure Google Cloud Network
-8. Prepare Data for ML APIs on Google Cloud
+1. **Google Cloud Computing Foundations: Cloud Computing Fundamentals**
+2. **Google Cloud Computing Foundations: Infrastructure in Google Cloud**
+3. **Google Cloud Computing Foundations: Networking & Security in Google Cloud**
+4. **Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud**
+5. **Implement Load Balancing on Compute Engine**
+6. **Set Up an App Dev Environment on Google Cloud**
+7. **Build a Secure Google Cloud Network**
+8. **Prepare Data for ML APIs on Google Cloud**
 
 Acesse a plataforma https://www.cloudskillsboost.google/ e pesquise por "Google Cloud Computing Foundations Certificate" para mais detalhes.
 
