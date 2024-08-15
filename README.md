@@ -54,25 +54,25 @@ A partir de 22.08 fique atento ao seu e-mail, e você terá então acesso aos cu
 Após a sua inscrição, junte-se a nós para acompanhar notícias do evento, tirar dúvidas com os colegas e acompanhar as novidades acessando nosso grupo no [Whatsapp]( https://chat.whatsapp.com/BsIBXKBB3HPEQXUDdOTjiA). 
 
 ## FAQ
-### Quanto tempo tenho para fazer o curso?
+#### Quanto tempo tenho para fazer o curso?
 O ideal é que você complete o curso em 8 semanas. Para participar da feira de empregos você deve concluir os 8 cursos até 5 de novembro de 2024. 
 Mas se desejar receber apenas o certificado e/ou horas complementares, você terá até 5 de dezembro de 2024 para completar os cursos. A partir 
 dessa data (ou um pouco mais) encerram-se os seu créditos gratuítos na plataforma.
 
-### Como e quando recebo as horas complementares?
+#### Como e quando recebo as horas complementares?
 Para os alunos de graduação interessados em horas complementares haverão dois checkpoints ao longo do semestre, em 5 de outubro e 5 de dezembro. 
 Até uma dessas datas você deve completar os treinamentos e preencher as badges alcançadas na planilha de turmas (a mesma que empregou para 
 fazer as inscrições). Nas datas de 5.10 e 5.12, as informações serão verificadas no seu perfil da plataforma e enviaremos para cadastro da horas.
 
-### Haverá outras turmas neste semestre?
+#### Haverá outras turmas neste semestre?
 Além dessa turma de Agostos, abriremos para novas inscrições mensalmente. Mas as datas (ver Quanto tempo tenho para fazer o curso? e Como e quando recebo as horas complementares?) serão mantidas para todas as turmas.
 
-### Haverá aulas síncronas, professores? 
+#### Haverá aulas síncronas, professores? 
 Não. Todos os cursos são na plataforma cloudskillsboost, uma plataforma de auto-instrução com materiais e laboratórios. Haverá, entretanto, a depender de haver um número
 mínimo de inscritos como um todo na plataforma (incluindo alunos de outras instituições) sessões técnicas mensais e online com um Googler para tirar dúvidas e discussões.
 Essas sessões, de qualquer modo, não serão obrigatórias.
 
-### Outras dúvidas?
+#### Outras dúvidas?
 Junte-se a nós no grupo de Whatsapp (acima), compartilhe suas dúvidas, e um professor ou colegas poderá responder.
 
 
