@@ -23,7 +23,7 @@ Qrcode desta página!
 <br>
 
 Olá pessoal, 
-**Google Cloud Computing Foundations Academy** está voltando este semestre com a sua **11a edição da Academia no MACKENZIE** e com grandes mudanças. 
+**Google Cloud Computing Foundations Academy** está de volta neste semestre com a sua **11a edição da Academia no MACKENZIE** e com grandes mudanças. 
 
 A Academia é um treinamento fundamental para quem quer aprender e praticar os conceitos dos serviços em nuvem 
 com uma das plataformas mais empregadas no mercado. O treinamento completo é composto por 8 cursos introdutórios (4 treinamentos básicos + 4 desafios).
