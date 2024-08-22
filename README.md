@@ -35,15 +35,14 @@ Os estudantes que concluírem os 8 cursos no prazo vão receber:
 * **Um convite para participar da Feira de Empregos** que acontece no final do ano e conecta você com +20 parceiros do Google Cloud com vagas abertas.
 * **40h complementares** para os alunos de graduação  
 
-## Inscrições, até 21.08
+## Inscrições, prorrogadas até 23.08
 O processo de inscrição mudou e ficou mais simples. Mas você tem que ficar atento às datas e o seu e-mail empregado na inscrição. Veja os passos a seguir.
 
 * 1. Faça primeiramente o seu cadastro na plataforma https://www.cloudskillsboost.google/. Você deve, preferencialmente, empregar o seu e-mail mackenzista
  
-* 2. Adicione seus dados na planilha de turmas https://docs.google.com/spreadsheets/d/1B3HZyEldZfWoN3Bk_sU5n-41GFA09n8X8C-AX_eXPOk/edit?usp=sharing. O professor
-irá empregar os e-mails dessa planilha para incluir os alunos na turma do **Google Cloud Computing Foundations Certificate** na plataforma.
+* 2. Adicione seus dados no formulário https://forms.gle/EhXjNCGriMfhJV9k6. O professor irá empregar os e-mails dessa planilha para incluir os alunos na turma do **Google Cloud Computing Foundations Certificate** na plataforma.
 
-A partir de 22.08 fique atento ao seu e-mail, e você terá então acesso aos cursos na plataforma cloudskillsboost. 
+A partir de 24.08 fique atento ao seu e-mail, e você terá então acesso aos cursos na plataforma cloudskillsboost. 
 
 ## Junte-se a nós no Whatsapp
 
