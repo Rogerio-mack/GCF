@@ -23,7 +23,7 @@ Qrcode desta página!
 <br>
 
 Olá pessoal, 
-A **Google Cloud Computing Foundations Academy** está de volta neste semestre com a sua **11a edição da Academia no MACKENZIE** e com grandes mudanças. 
+A **Google Cloud Computing Foundations Academy** está de volta neste semestre com a sua **11a edição da Academia no MACKENZIE** e com grandes mudanças. As turmas agora são semestrais, mas fazemos a inclusão de alunos 3-4 vezes no semestre. Agora, estamos fazendo a inclusão de alunos de **OUTUBRO**. 
 
 A Academia é um treinamento fundamental para quem quer aprender e praticar os conceitos dos serviços em nuvem 
 com uma das plataformas mais empregadas no mercado. O treinamento completo é composto por 8 cursos introdutórios (4 treinamentos básicos + 4 desafios).
@@ -35,14 +35,14 @@ Os estudantes que concluírem os 8 cursos no prazo vão receber:
 * **Um convite para participar da Feira de Empregos** que acontece no final do ano e conecta você com +20 parceiros do Google Cloud com vagas abertas.
 * **40h complementares** para os alunos de graduação  
 
-## Inscrições, prorrogadas até 23.08
+## Inscrições, você pode fazer a inscrição até 05.10
 O processo de inscrição mudou e ficou mais simples. Mas você tem que ficar atento às datas e o seu e-mail empregado na inscrição. Veja os passos a seguir.
 
 * 1. Faça primeiramente o seu cadastro na plataforma https://www.cloudskillsboost.google/. Você deve, preferencialmente, empregar o seu e-mail mackenzista
  
-* 2. Adicione seus dados no formulário https://forms.gle/EhXjNCGriMfhJV9k6. O professor irá empregar os e-mails dessa planilha para incluir os alunos na turma do **Google Cloud Computing Foundations Certificate** na plataforma.
+* 2. Preencha o formulário [form de inscrição](https://forms.gle/Ngs4vJ3MxPqSWrvf8) informando o mesmo e-mail empregado no cadastro da plataforma cloudskillsboost.google. O professor irá, a partir do encerramento das inscrições, associar a sua conta no cloudskillsboost.google ao curso **Google Cloud Computing Foundations Certificate** na plataforma.
 
-A partir de 24.08 fique atento ao seu e-mail, e você terá então acesso aos cursos na plataforma cloudskillsboost. 
+A partir de 05.10 fique atento ao seu e-mail, você irá receber um e-mail convite para o treinamento. Aceite o convite e você terá acesso aos cursos **Google Cloud Computing Foundations Certificate** na plataforma cloudskillsboost.google. 
 
 ## Junte-se a nós no Whatsapp
 
@@ -74,11 +74,10 @@ Acesse a plataforma https://www.cloudskillsboost.google/ e pesquise por "Google 
 
 #### Como e quando recebo as horas complementares?
 Para os alunos de graduação interessados em horas complementares haverão dois checkpoints ao longo do semestre, em 5 de outubro e 5 de dezembro. 
-Até uma dessas datas você deve completar os treinamentos e preencher as badges alcançadas na planilha de turmas (a mesma que empregou para 
-fazer as inscrições). Nas datas de 5.10 e 5.12, as informações serão verificadas no seu perfil da plataforma e enviaremos para cadastro da horas.
+Até uma dessas datas você deve completar os treinamentos e, então, informar no [Form de Horas Complementares](https://forms.gle/zQ7tD4MMziroG4ar8) as badges alcançadas no treinamento. Nas datas de 5.10 e 5.12, as informações serão verificadas no seu perfil da plataforma e enviaremos para cadastro da horas.
 
 #### Haverá outras turmas neste semestre?
-Além dessa turma de Agostos, abriremos para novas inscrições mensalmente. Mas as datas (ver Quanto tempo tenho para fazer o curso? e Como e quando recebo as horas complementares?) serão mantidas para todas as turmas.
+Sim. A depender da demanda mais uma ou duas turmas serão abertas. Novembro e Dezembro. Mas as datas (ver Quanto tempo tenho para fazer o curso? e Como e quando recebo as horas complementares?) serão mantidas para todas as turmas.
 
 #### Haverá aulas síncronas, professores? 
 Não. Todos os cursos são na plataforma cloudskillsboost, uma plataforma de auto-instrução com materiais e laboratórios. Haverá, entretanto, a depender de haver um número
