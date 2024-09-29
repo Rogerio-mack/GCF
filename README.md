@@ -38,9 +38,9 @@ Os estudantes que concluírem os 8 cursos no prazo vão receber:
 ## Inscrições, você pode fazer a inscrição até 05.10
 O processo de inscrição mudou e ficou mais simples. Mas você tem que ficar atento às datas e o seu e-mail empregado na inscrição. Veja os passos a seguir.
 
-* 1. Faça primeiramente o seu cadastro na plataforma https://www.cloudskillsboost.google/. Você deve, preferencialmente, empregar o seu e-mail mackenzista
+1. Faça primeiramente o seu cadastro na plataforma https://www.cloudskillsboost.google/. Você deve, preferencialmente, empregar o seu e-mail mackenzista
  
-* 2. Preencha o formulário [form de inscrição](https://forms.gle/Ngs4vJ3MxPqSWrvf8) informando o mesmo e-mail empregado no cadastro da plataforma cloudskillsboost.google. O professor irá, a partir do encerramento das inscrições, associar a sua conta no cloudskillsboost.google ao curso **Google Cloud Computing Foundations Certificate** na plataforma.
+2. Preencha o formulário [form de inscrição](https://forms.gle/Ngs4vJ3MxPqSWrvf8) informando o mesmo e-mail empregado no cadastro da plataforma cloudskillsboost.google. O professor irá, a partir do encerramento das inscrições, associar a sua conta no cloudskillsboost.google ao curso **Google Cloud Computing Foundations Certificate** na plataforma.
 
 A partir de 05.10 fique atento ao seu e-mail, você irá receber um e-mail convite para o treinamento. Aceite o convite e você terá acesso aos cursos **Google Cloud Computing Foundations Certificate** na plataforma cloudskillsboost.google. 
 
