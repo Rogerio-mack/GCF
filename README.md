@@ -30,6 +30,7 @@ com uma das plataformas mais empregadas no mercado. O treinamento completo é co
 
 Os estudantes que concluírem os 8 cursos no prazo vão receber:
 
+* **Google Cloud Computing Foundations Certificate**
 * **Um convite para participar da Feira de Empregos** que acontece no final do ano e conecta você com +20 parceiros do Google Cloud com vagas abertas.
 * **40h complementares** para os alunos de graduação  
 
