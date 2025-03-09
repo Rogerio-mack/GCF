@@ -23,26 +23,23 @@ Qrcode desta página!
 <br>
 
 Olá pessoal, 
-A **Google Cloud Computing Foundations Academy** está de volta neste semestre com a sua **11a edição da Academia no MACKENZIE** e com grandes mudanças. As turmas agora são semestrais, mas fazemos a inclusão de alunos 3-4 vezes no semestre. Agora, estamos fazendo a inclusão de alunos de **OUTUBRO**. 
+A **Google Cloud Computing Foundations Academy** está de volta neste semestre com a sua **12a edição da Academia no MACKENZIE**. As turmas são semestrais, e os inscritos nesta turma **poderão completar os cursos até 01.Ago**. As incrições de novas turmas serão feitas mensalmente. **Neste mês as incrições vão até 20.03** (mas todas encerram em 01.Ago). 
 
 A Academia é um treinamento fundamental para quem quer aprender e praticar os conceitos dos serviços em nuvem 
 com uma das plataformas mais empregadas no mercado. O treinamento completo é composto por 8 cursos introdutórios (4 treinamentos básicos + 4 desafios).
 
 Os estudantes que concluírem os 8 cursos no prazo vão receber:
 
-* **Google Cloud Computing Foundations Certificate**
-* **2-3 Sessões de mentoria especial com Googlers** ao longo dos treinamentos (\* acontece a depender de um número de inscritos no programa)
 * **Um convite para participar da Feira de Empregos** que acontece no final do ano e conecta você com +20 parceiros do Google Cloud com vagas abertas.
 * **40h complementares** para os alunos de graduação  
 
-## Inscrições, você pode fazer a inscrição até 05.10
-O processo de inscrição mudou e ficou mais simples. Mas você tem que ficar atento às datas e o seu e-mail empregado na inscrição. Veja os passos a seguir.
+## Inscrições mensais, neste mês as incrições vão até 20.03
 
-1. Faça primeiramente o seu cadastro na plataforma https://www.cloudskillsboost.google/. Você deve, preferencialmente, empregar o seu e-mail mackenzista
+1. Faça primeiramente o seu cadastro na plataforma https://www.cloudskillsboost.google/. Você deve, preferencialmente, empregar o seu e-mail mackenzista, mas pode usar outor e-mail se precisar. Mas atenção, que os créditos e skill badges ficarão associadas unicamente a este e-mail.
  
-2. Preencha o formulário [form de inscrição](https://forms.gle/Ngs4vJ3MxPqSWrvf8) informando o mesmo e-mail empregado no cadastro da plataforma cloudskillsboost.google. O professor irá, a partir do encerramento das inscrições, associar a sua conta no cloudskillsboost.google ao curso **Google Cloud Computing Foundations Certificate** na plataforma.
+2. Criado o seu usuário na  na plataforma https://www.cloudskillsboost.google/ preencha o formulário [form de inscrição](https://forms.gle/Ngs4vJ3MxPqSWrvf8) informando o mesmo e-mail empregado no cadastro da plataforma. O professor irá, a partir do encerramento das inscrições, associar a sua conta no cloudskillsboost.google ao curso **Google Cloud Computing Foundations Certificate** na plataforma. **Tenha atenção ao informar seu e-mail de cadastro**, a maior parte dos problemas com inscrições é por preenchimento errado do formulário.
 
-A partir de 05.10 fique atento ao seu e-mail, você irá receber um e-mail convite para o treinamento. Aceite o convite e você terá acesso aos cursos **Google Cloud Computing Foundations Certificate** na plataforma cloudskillsboost.google. 
+Em geral, concluída a sua inclusão na turma, você receberá um e-mail convite para o treinamento. Aceite o convite e você terá acesso aos cursos **Google Cloud Computing Foundations Certificate** na plataforma cloudskillsboost.google. Mas caso não receba o convite pode fazer acesso à plataforma cloudskillsboost.google na semana seguinte ao término da data das incrições. Seu acesso já deverá estar liberado.
 
 ## Junte-se a nós no Whatsapp
 
@@ -54,9 +51,7 @@ Após a sua inscrição, junte-se a nós para acompanhar notícias do evento, ti
 
 ## FAQ
 #### Quanto tempo tenho para fazer o curso?
-O ideal é que você complete o curso em 8 semanas. Para participar da feira de empregos você deve concluir os 8 cursos até 5 de novembro de 2024. 
-Mas se desejar receber apenas o certificado e/ou horas complementares, você terá até 5 de dezembro de 2024 para completar os cursos. A partir 
-dessa data (ou um pouco mais) encerram-se os seu créditos gratuítos na plataforma.
+O ideal é que você complete o curso em 8-10 semanas, mas nesta edição todos terão até 01.08.2025 para completar o treinamento. Para participar da feira de empregos você deve concluir os 8 cursos até lá. A partir dessa data (ou um pouco mais) encerram-se os seu créditos gratuítos na plataforma.
 
 #### Quais são os 8 cursos que constam dessa atividade?
 Aqui os cursos e desafios:
@@ -73,16 +68,15 @@ Aqui os cursos e desafios:
 Acesse a plataforma https://www.cloudskillsboost.google/ e pesquise por "Google Cloud Computing Foundations Certificate" para mais detalhes.
 
 #### Como e quando recebo as horas complementares?
-Para os alunos de graduação interessados em horas complementares haverão dois checkpoints ao longo do semestre, em 5 de outubro e 5 de dezembro. 
-Até uma dessas datas você deve completar os treinamentos e, então, informar no [Form de Horas Complementares](https://forms.gle/zQ7tD4MMziroG4ar8) as badges alcançadas no treinamento. Nas datas de 5.10 e 5.12, as informações serão verificadas no seu perfil da plataforma e enviaremos para cadastro da horas.
+Para os alunos de graduação interessados em horas complementares haverão dois checkpoints, um no final de junho e outro no início do segundo semestre. 
+Até uma dessas datas você deve completar os treinamentos e, então, informar no [Form de Horas Complementares](https://forms.gle/zQ7tD4MMziroG4ar8) as badges alcançadas no treinamento. Na semana seguinte as informações serão verificadas no seu perfil da plataforma e enviaremos para cadastro das horas no sistema acadêmico.
 
 #### Haverá outras turmas neste semestre?
-Sim. A depender da demanda mais uma ou duas turmas serão abertas. Novembro e Dezembro. Mas as datas (ver Quanto tempo tenho para fazer o curso? e Como e quando recebo as horas complementares?) serão mantidas para todas as turmas.
+Sim. Abriremos para inscrições mensalmente, mas todas encerram em 01.Ago.2025. Veja Quanto tempo tenho para fazer o curso? e Como e quando recebo as horas complementares? que têm datas únicas para todas as turmas.
 
 #### Haverá aulas síncronas, professores? 
 Não. Todos os cursos são na plataforma cloudskillsboost, uma plataforma de auto-instrução com materiais e laboratórios. Haverá, entretanto, a depender de haver um número
-mínimo de inscritos como um todo na plataforma (incluindo alunos de outras instituições) sessões técnicas mensais e online com um Googler para tirar dúvidas e discussões.
-Essas sessões, de qualquer modo, não serão obrigatórias.
+mínimo de inscritos como um todo na plataforma (incluindo alunos de outras instituições) sessões técnicas mensais e online com um Googler para tirar dúvidas e discussões. Isso dependeraá unicamente da Google. Essas sessões, de qualquer modo, não são obrigatórias.
 
 #### Outras dúvidas?
 Junte-se a nós no grupo de Whatsapp (acima), compartilhe suas dúvidas, e um professor ou colegas poderá responder.
