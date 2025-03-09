@@ -23,7 +23,7 @@ Qrcode desta página!
 <br>
 
 Olá pessoal, 
-A **Google Cloud Computing Foundations Academy** está de volta neste semestre com a sua **12a edição da Academia no MACKENZIE**. As turmas são semestrais, e os inscritos nesta turma **poderão completar os cursos até 01.Ago**. As incrições de novas turmas serão feitas mensalmente. **Neste mês as incrições vão até 20.03** (mas todas encerram em 01.Ago). 
+**Google Cloud Computing Foundations Academy 2025** está de volta neste semestre com a sua **12a edição da Academia no MACKENZIE**. As turmas são semestrais, e os inscritos nesta turma **poderão completar os cursos até 01.Ago**. As incrições de novas turmas serão feitas mensalmente. **Neste mês as incrições vão até 20.03** (mas todas encerram em 01.Ago). 
 
 A Academia é um treinamento fundamental para quem quer aprender e praticar os conceitos dos serviços em nuvem 
 com uma das plataformas mais empregadas no mercado. O treinamento completo é composto por 8 cursos introdutórios (4 treinamentos básicos + 4 desafios).
@@ -37,7 +37,7 @@ Os estudantes que concluírem os 8 cursos no prazo vão receber:
 
 1. Faça primeiramente o seu cadastro na plataforma https://www.cloudskillsboost.google/. Você deve, preferencialmente, empregar o seu e-mail mackenzista, mas pode usar outor e-mail se precisar. Mas atenção, que os créditos e skill badges ficarão associadas unicamente a este e-mail.
  
-2. Criado o seu usuário na  na plataforma https://www.cloudskillsboost.google/ preencha o formulário [form de inscrição](https://forms.gle/Ngs4vJ3MxPqSWrvf8) informando o mesmo e-mail empregado no cadastro da plataforma. O professor irá, a partir do encerramento das inscrições, associar a sua conta no cloudskillsboost.google ao curso **Google Cloud Computing Foundations Certificate** na plataforma. **Tenha atenção ao informar seu e-mail de cadastro**, a maior parte dos problemas com inscrições é por preenchimento errado do formulário.
+2. Criado o seu usuário na  na plataforma https://www.cloudskillsboost.google/ preencha o formulário [form de inscrição](https://forms.gle/t62szfHHw8QDBWbG7) informando o mesmo e-mail empregado no cadastro da plataforma. O professor irá, a partir do encerramento das inscrições, associar a sua conta no cloudskillsboost.google ao curso **Google Cloud Computing Foundations Certificate** na plataforma. **Tenha atenção ao informar seu e-mail de cadastro**, a maior parte dos problemas com inscrições é por preenchimento errado do formulário.
 
 Em geral, concluída a sua inclusão na turma, você receberá um e-mail convite para o treinamento. Aceite o convite e você terá acesso aos cursos **Google Cloud Computing Foundations Certificate** na plataforma cloudskillsboost.google. Mas caso não receba o convite pode fazer acesso à plataforma cloudskillsboost.google na semana seguinte ao término da data das incrições. Seu acesso já deverá estar liberado.
 
@@ -69,7 +69,7 @@ Acesse a plataforma https://www.cloudskillsboost.google/ e pesquise por "Google 
 
 #### Como e quando recebo as horas complementares?
 Para os alunos de graduação interessados em horas complementares haverão dois checkpoints, um no final de junho e outro no início do segundo semestre. 
-Até uma dessas datas você deve completar os treinamentos e, então, informar no [Form de Horas Complementares](https://forms.gle/zQ7tD4MMziroG4ar8) as badges alcançadas no treinamento. Na semana seguinte as informações serão verificadas no seu perfil da plataforma e enviaremos para cadastro das horas no sistema acadêmico.
+Até uma dessas datas você deve completar os treinamentos e, então, informar no [Form de Horas Complementares](https://forms.gle/tfnuCjoFkCxgoZaUA) as badges alcançadas no treinamento. Na semana seguinte as informações serão verificadas no seu perfil da plataforma e enviaremos para cadastro das horas no sistema acadêmico.
 
 #### Haverá outras turmas neste semestre?
 Sim. Abriremos para inscrições mensalmente, mas todas encerram em 01.Ago.2025. Veja Quanto tempo tenho para fazer o curso? e Como e quando recebo as horas complementares? que têm datas únicas para todas as turmas.
