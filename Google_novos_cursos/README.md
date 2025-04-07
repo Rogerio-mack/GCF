@@ -14,6 +14,8 @@ Novos cursos Google para alunos Mackenzie... acesse para cada cursos as informa�
 * [Google Cloud Computing Foundations Certificate](https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/GCCF.pdf) 
 * [Beginner: Google Cloud Data Analytics Certificate](https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/DA.pdf)
 
+* [Google Cloud Engineering Certificate](https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/DA.pdf) **NOVO**
+
 Curso para iniciante em IA, com a possibilidade de também fazer os cursos avançados:
 * [Beginner: Introduction to Generative AI Learning Path](https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/AI.pdf)
 Fazendo a inscrição e completando este curso, você poderá fazer também os cursos *Advanced: Generative AI for Developers* e 
