@@ -2,22 +2,42 @@
   <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/Mackenzie.jpg" width="40%" align="right"/>
 </p>
 
-# Acesse aqui informações dos novos cursos Google Mackenzie
+# Informações e links de inscrição para as turmas Google Mackenzie deste semestre.
+
+### Inscrições até 10.09
+
+<br>
+
+> * [Google Cloud Computing Foundations Certificate](https://www.cloudskillsboost.google/paths/36)
+
+> Recomendado para alunos com no mínimo 2 semestres nas áreas de tecnologia. [*Clique para sua Inscrição*](https://forms.gle/jFYM6v9YPPS4EGoU7)
+
+<br>
+
+> * [Beginner: Google Cloud Cybersecurity Certificate](https://www.cloudskillsboost.google/paths/419)
+
+> Recomendado para alunos com no mínimo 2 semestres nas áreas de tecnologia. [*Clique para sua Inscrição*](https://forms.gle/J5EZBK6ZwZTrooEw7)
+
+<br>
+
+> * [Beginner: Google Cloud Data Analytics Certificate](https://www.cloudskillsboost.google/paths/420)
+
+> Recomendado para alunos com no mínimo 2 semestres nas áreas de tecnologia. [*Clique para sua Inscrição*](https://forms.gle/TEUBTRcmD2bqR4nR9) 
+
+<br>
+
+> * [Google Cloud Engineering Certificate](https://www.cloudskillsboost.google/paths/621)
+
+> Recomendado para alunos com no mínimo 2 semestres nas áreas de tecnologia e que já completaram o Google Cloud Foundations. [*Clique para sua Inscrição*](https://forms.gle/MpFtVBGzAqrSX5Jq6) 
 
 <br>
 <br>
-
-Olá Alunos, 
-Novos cursos Google para alunos Mackenzie... acesse para cada cursos as informações.
-
-* [Beginner: Google Cloud Cybersecurity Certificate](https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/CYBER.pdf) 
-* [Google Cloud Computing Foundations Certificate](https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/GCCF.pdf) 
-* [Beginner: Google Cloud Data Analytics Certificate](https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/DA.pdf)
-
-* [Google Cloud Engineering Certificate](https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/DA.pdf) **NOVO**
 
 Curso para iniciante em IA, com a possibilidade de também fazer os cursos avançados:
-* [Beginner: Introduction to Generative AI Learning Path](https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/AI.pdf)
+> * [Beginner: Introduction to Generative AI Learning Path](https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/AI.pdf)
+
+> Sem pré requisito, alunos de quaisquer áreas, mesmo que não de tecnologia, podem participar. [*Clique para sua Inscrição*](https://forms.gle/mPfvwG7vLUGV3vD9A)
+
 Fazendo a inscrição e completando este curso, você poderá fazer também os cursos *Advanced: Generative AI for Developers* e 
 *Gemini for Google Cloud*
 
