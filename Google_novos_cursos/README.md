@@ -27,14 +27,17 @@ Fazendo a inscrição e completando este curso, você poderá fazer também os c
 ## Junte-se a nós no Whatsapp
 
 <p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files_Maio_2023/qrcode_whatsapp.png" width="16%" align="center"/>
+  <img src="https://github.com/Rogerio-mack/GCF/blob/main/Google_novos_cursos/Google_grupo_whatsapp.png?raw=true" width="16%" align="center"/>
 </p>
 
-Após a sua inscrição, junte-se a nós para acompanhar notícias do evento, tirar dúvidas com os colegas e acompanhar as novidades acessando nosso grupo no [Whatsapp]( https://chat.whatsapp.com/BsIBXKBB3HPEQXUDdOTjiA). 
+Após a sua inscrição, junte-se a nós para acompanhar notícias do evento, tirar dúvidas com os colegas e acompanhar as novidades acessando nosso grupo no [Whatsapp](https://chat.whatsapp.com/D0huc37vOir8oiQY8AVfeF?mode=ems_wa_t). 
 
 ## FAQ
+#### Não consegui completar o curso nas turmas anteriores, posso fazer novamente? Perco o progresso do que já realizei?
+> Sim, você pode se inscrever na nova turma para completar o seu curso. Se você mantiver o mesmo e-mail de cadastro você poderá fazer o curso a partir do ponto que você já havia realizado sem perder o progresso já feito.
+
 #### Quanto tempo tenho para fazer o curso?
-> **Todos os cursos encerram em 2025-08-27**, você tem até lá para completar. Mas não deixe para última hora!
+> **Todos os cursos encerram em 2026-02-19**, você tem até lá para completar. Mas não deixe para última hora!
 
 #### Como e quando recebo as horas complementares?
 > Esses cursos receberam horas complementares apenas no fluxo normal de solicitação de horas. 
