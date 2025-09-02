@@ -59,8 +59,8 @@ Após a sua inscrição, junte-se a nós para acompanhar notícias do evento, ti
 #### Quanto tempo tenho para fazer o curso?
 > **Todos os cursos encerram em 2026-02-19**, você tem até lá para completar. Mas não deixe para última hora!
 
-#### Como e quando recebo as horas complementares?
-> Esses cursos receberam horas complementares apenas no fluxo normal de solicitação de horas. 
+#### Esses cursos valem horas complementares? Como e quando recebo as horas complementares?
+> Cada curso permite até 20 horas complementares. O aluno pode fazer mais que um curso para ter mais horas complementares. Ao longo de semestre será disponibilizado em duas oportunidades (uma no meio do semestre e outra no final) um formulário para os alunos que completarem os cursos solicitarem as horas complementares. 
 
 #### Haverá outras turmas neste semestre?
 > Não. Somente no semestre que vem.
@@ -74,8 +74,3 @@ mínimo de inscritos como um todo na plataforma (incluindo alunos de outras inst
 
 
 
-
-
-
-
-Acesse aqui informações dos novos cursos
