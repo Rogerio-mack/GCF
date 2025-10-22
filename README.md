@@ -8,5 +8,11 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Cursos atuais, acesse [aqui](https://github.com/Rogerio-mack/GCF/blob/main/Cursos_Google_2025.pdf).
