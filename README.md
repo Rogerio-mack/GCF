@@ -19,7 +19,7 @@ Cursos atuais, acesse [aqui](https://github.com/Rogerio-mack/GCF/blob/main/Curso
 
 ### **Rodada de inscrições de Outubro**
 
-*Abaixo os dados de preenchimento dos formulários. Somente foram cadastrados inscritos com os dados corretos nos formulários.* 
+*Abaixo os dados de preenchimento dos formulários. Somente foram cadastrados inscritos com os dados corretos nos formulários. Ver somente os selecionados em azul (inscrições de Outubro).* 
 
 - [Google Cloud Computing Foundations Certificate](https://docs.google.com/spreadsheets/d/1DCAYhhhsnm6PYmlJtQ7hMb679pb4UgR9ZBE5vvDfJc8/edit?usp=sharing), 44 inscritos
 - [Introduction to Generative AI Learning Path](https://docs.google.com/spreadsheets/d/1_Fd8CrPIJXeYuUPe-fXfEChV2pPPLccyuJ1wdYqL_cQ/edit?usp=sharing), 33 inscritos
